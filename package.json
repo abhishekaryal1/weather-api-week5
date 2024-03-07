@@ -1,12 +1,12 @@
 {
   "name": "weather_api",
   "version": "1.0.0",
-  "description": "The Weather API",
+  "description": "This is the new description for Weather API",
   "type": "module",
   "engines": {
     "node": ">= 18.12 <21"
   },
-  "author": "Abhishek Aryal",
+  "author": "Abhi Aryal",
   "license": "MIT",
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
