@@ -10,6 +10,7 @@ const app = express();
 const PORT = 3000;
 
 app.use(express.json());
+app.use(cors())
 
 //our new route
 app.use('/api/weather', weatherRoute);
