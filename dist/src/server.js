@@ -13,5 +13,4 @@ app.use('/api/weather', weatherRoute);
 app.listen(PORT, () => {
     console.log('Server is listening on port ${PORT}');
 });
-app.use(cors());
 //# sourceMappingURL=server.js.map
